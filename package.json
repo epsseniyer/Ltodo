@@ -1,0 +1,14 @@
+{
+    "name": "ltodo",
+    "version": "1.0.0",
+    "description": "e",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ididnotusednpm"
+    ],
+    "author": "Lillayly",
+    "license": "ISC"
+}
